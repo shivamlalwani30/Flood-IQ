@@ -1,0 +1,42 @@
+{
+  "KRM_01": {
+    "zone_id": "KRM_01",
+    "label": "Koramangala 5th Block",
+    "center_lat": 12.935,
+    "center_lng": 77.614,
+    "radius_m": 600,
+    "depth_cm": 65.0
+  },
+  "KRM_02": {
+    "zone_id": "KRM_02",
+    "label": "Koramangala 80ft Road",
+    "center_lat": 12.94,
+    "center_lng": 77.625,
+    "radius_m": 450,
+    "depth_cm": 38.5
+  },
+  "BTM_01": {
+    "zone_id": "BTM_01",
+    "label": "BTM Layout",
+    "center_lat": 12.916,
+    "center_lng": 77.61,
+    "radius_m": 500,
+    "depth_cm": 26.6
+  },
+  "HSR_01": {
+    "zone_id": "HSR_01",
+    "label": "HSR Layout",
+    "center_lat": 12.912,
+    "center_lng": 77.638,
+    "radius_m": 500,
+    "depth_cm": 0
+  },
+  "IND_01": {
+    "zone_id": "IND_01",
+    "label": "Indiranagar 100ft Road",
+    "center_lat": 12.971,
+    "center_lng": 77.64,
+    "radius_m": 450,
+    "depth_cm": 0
+  }
+}
